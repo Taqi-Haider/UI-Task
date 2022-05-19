@@ -104,7 +104,7 @@ li{
     color:white
 }
 .icon-align{
-    text-align: webkit-center;
+    text-align: -webkit-center;
     text-align: -moz-center;
 }
 .video-block{
