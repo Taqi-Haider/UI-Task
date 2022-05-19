@@ -58,7 +58,7 @@ li{
     font-weight: bolder;
 }
 .btn-discover:hover{
-
+    
 }
 .menu-btns{
     background: url('gallery/xbg_2.webp')center;
@@ -104,7 +104,8 @@ li{
     color:white
 }
 .icon-align{
-    text-align: center !important;
+    text-align: webkit-center;
+    text-align: -moz-center;
 }
 .video-block{
     background-image: url(gallery/xbg_4.webp);
